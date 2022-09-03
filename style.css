@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Zen+Maru+Gothic:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+*{
+  margin:0;
+  padding:0;
+  background-color:black;
+  color:white;
+}
+
+.head{
+  height:500px;
+  background-color:	#F04E58;
+}
+
+#Welcome{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+  font-size: 100px;
+  background-color:	#F04E58;
+  padding-top:200px;  
+}
+
+#back-image{
+  width:50%;
+  float:left;
+}
+
+#name{
+  font-size:75px;
+}
+
+.main{
+  font-family: 'Zen Maru Gothic', sans-serif;
+  padding-bottom:100px;
+  border-bottom: 1px solid #ccc;
+  border-bottom-color:#4db56a;  
+}
+
+.main p{
+  font-size:20px;
+}
+
+.Scratch{
+  padding-top:50px;
+}
+
+.Scratch a{
+  color:#4db56a;
+}
+
+.main-English{
+  font-family: 'Roboto', sans-serif;
+}
+
+.main-English{
+  font-size:25px;
+}
+
+a{
+  text-decoration:none;
+  transition:0.5s;
+}
+
+a:hover{
+  color:#b9c42f;
+  transition:0.5s;
+}
